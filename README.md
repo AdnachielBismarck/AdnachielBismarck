@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdnachielBismarck
 - 👀 I’m interested in analitic and data science
-- 🌱 I’m currently learning physics and 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning physics and maths
+- 💞️ I’m looking to collaborate on proyects releated with dates or physics problems
 - 📫 How to reach me ...
 
 <!---
