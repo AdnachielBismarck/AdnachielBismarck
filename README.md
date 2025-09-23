@@ -2,7 +2,7 @@
 - 👀 Passionate about data analysis, strategic consulting, and applied physics  
 - 🎓 Engineer in Applied Physics with certifications in advanced data analytics and SQL  
 - 🤝 Open to collaborations on data-driven projects in health, finance, tourism, or physics  
-- 📫 You can reach me via [LinkedIn](www.linkedin.com/in/adnachiel-bismarck-avendaño-chavez-9089a128b) or email at adnachiel.bismarck@gmail.com  
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/adnachiel-bismarck-avenda%C3%B1o-chavez-9089a128b/) or email at adnachiel.bismarck@gmail.com  
 
 <!---
 AdnachielBismarck/AdnachielBismarck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
