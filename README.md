@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdnachielBismarck  
 - 👀 Passionate about data analysis, strategic consulting, and applied physics  
-- 🎓 Engineer in Applied Physics with certifications in advanced data analytics and SQL  
-- 🤝 Open to collaborations on data-driven projects in health, finance, tourism, or physics  
+- 🎓 Engineer in Applied Physics with certifications in advanced data analytics and data science
+- 🤝 Open to collaborations on data-driven projects in health, finance, tourism, economy or physics  
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/adnachiel-bismarck-avenda%C3%B1o-chavez-9089a128b/) or email at adnachiel.bismarck@gmail.com  
 
 <!---
